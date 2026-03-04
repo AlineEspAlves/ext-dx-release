@@ -1,0 +1,99 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "26/02/2026 19:45:39",
+      "sequence" : 700368,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "table_name" : "OBJETO_SISTEMA",
+      "tag_name" : "CMDK",
+      "tasy_user" : "andrey",
+      "guid" : "590236ad-7185-4930-9358-e6cd50911b9d"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb6"
+    },
+    "session_info" : {
+      "machine" : "889c9a568d1b",
+      "os_user" : "root",
+      "tasy_user" : "andrey"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NM_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "TCEL_IMPORTAR_REGRAS",
+      "old_value" : "TCEL_IMPORTAR_REGRAS"
+    }, {
+      "column_name" : "IE_BANCO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "Oracle",
+      "old_value" : "Oracle"
+    } ],
+    "column_values" : [ {
+      "column_name" : "NM_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "TCEL_IMPORTAR_REGRAS",
+      "old_value" : "TCEL_IMPORTAR_REGRAS"
+    }, {
+      "column_name" : "IE_TIPO_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "PROCEDURE",
+      "old_value" : "PROCEDURE"
+    }, {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 10168074,
+      "old_value" : 10168074
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "26/02/2026 19:45:39",
+      "sequence" : 700369,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "table_name" : "OBJETO_SISTEMA",
+      "tag_name" : "CMDK",
+      "tasy_user" : "andrey",
+      "guid" : "88fa6a64-9496-441a-ba25-feaa29fc1ee1"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb6"
+    },
+    "session_info" : {
+      "machine" : "889c9a568d1b",
+      "os_user" : "root",
+      "tasy_user" : "andrey"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NM_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "TCEL_IMPORTAR_REGRAS",
+      "old_value" : "TCEL_IMPORTAR_REGRAS"
+    }, {
+      "column_name" : "IE_BANCO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "Oracle",
+      "old_value" : "Oracle"
+    } ],
+    "column_values" : [ {
+      "column_name" : "NM_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "TCEL_IMPORTAR_REGRAS",
+      "old_value" : "TCEL_IMPORTAR_REGRAS"
+    }, {
+      "column_name" : "IE_TIPO_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "PROCEDURE",
+      "old_value" : "PROCEDURE"
+    }, {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 10168074,
+      "old_value" : 10168074
+    } ]
+  } ]
+}
